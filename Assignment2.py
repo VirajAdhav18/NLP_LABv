@@ -1,3 +1,6 @@
+#Name:-Adhav Viraj Vikram
+#Assignmnet no :2
+#Batch :- 01
 from gensim.utils import simple_preprocess
 from gensim import corpora
 
